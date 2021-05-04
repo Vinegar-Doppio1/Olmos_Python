@@ -1,0 +1,42 @@
+[
+    {
+        "Location": "Tenerife, Canary Islands",
+        "Fatalities": "583"
+    },
+    {
+        "Location": "Mt. Osutaka, near Ueno Village, Japan",
+        "Fatalities": "520"
+    },
+    {
+        "Location": "Near Charkhidadri, India",
+        "Fatalities": "349"
+    },
+    {
+        "Location": "Near Ermenonville, France",
+        "Fatalities": "346"
+    },
+    {
+        "Location": "AtlantiOcean, 110 miles West of Ireland",
+        "Fatalities": "329"
+    },
+    {
+        "Location": "Near Riyadh, Saudi Arabia",
+        "Fatalities": "301"
+    },
+    {
+        "Location": "Over the Persian Gulf, near Bandar Abbas, Iran",
+        "Fatalities": "290"
+    },
+    {
+        "Location": "Near Shahdad, Iran",
+        "Fatalities": "275"
+    },
+    {
+        "Location": "Chicago O'Hare, Illinois",
+        "Fatalities": "271"
+    },
+    {
+        "Location": "Near Sakhalin Island, Russia",
+        "Fatalities": "269"
+    }
+]
